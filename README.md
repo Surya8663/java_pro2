@@ -159,13 +159,13 @@ CREATE TABLE borrow_records (
 | ![Main Menu](screenshots/main-menu.png) | ![Login](screenshots/member-login.png) | ![Register](screenshots/register.png) |
 
 ### Member Features
-| Member Dashboard | Browse Books | My Borrows |
-|-----------------|--------------|-----------|
+| Member Dashboard | 
+|-----------------|
  | ![Browse Books](screenshots/browse-books.png) | 
 
 ### Admin Features
-| Admin Dashboard | View All Books | View All Borrows |
-|-----------------|----------------|-----------------|
+| Admin Dashboard | 
+|-----------------|
 | ![Admin Dashboard](screenshots/admin-dashboard.png) |
 
 
