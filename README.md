@@ -168,6 +168,11 @@ CREATE TABLE borrow_records (
 |-----------------|
 | ![Admin Dashboard](screenshots/admin-dashboard.png) |
 
+### Database
+| Data stored |
+|-------------|
+| ![Data stored](screenshots/datastore.png) |
+
 
 
 ## 🔑 Default Credentials
