@@ -161,14 +161,14 @@ CREATE TABLE borrow_records (
 ### Member Features
 | Member Dashboard | Browse Books | My Borrows |
 |-----------------|--------------|-----------|
-| ![Dashboard](screenshots/member-dashboard.png) | ![Browse Books](screenshots/browse-books.png) | ![Borrows](screenshots/my-borrows.png) |
+ | ![Browse Books](screenshots/browse-books.png) | 
 
 ### Admin Features
 | Admin Dashboard | View All Books | View All Borrows |
 |-----------------|----------------|-----------------|
-| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![Admin Books](screenshots/admin-view-books.png) | ![Admin Borrows](screenshots/admin-view-borrows.png) |
+| ![Admin Dashboard](screenshots/admin-dashboard.png) |
 
-> **Note**: To add screenshots, follow the guide in [screenshots/README.md](screenshots/README.md)
+
 
 ## 🔑 Default Credentials
 
