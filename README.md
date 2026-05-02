@@ -214,9 +214,6 @@ CREATE TABLE borrow_records (
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
-
-**Surya Patel**  
 Java Developer | Library Management System
 
 ---
