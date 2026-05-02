@@ -153,13 +153,22 @@ CREATE TABLE borrow_records (
 
 ## 📸 Screenshots
 
-| Main Menu | Member Dashboard | Browse Books |
-|-----------|-----------------|--------------|
-| ![Main Menu](screenshots/main-menu.png) | ![Member Dashboard](screenshots/member-dashboard.png) | ![Browse Books](screenshots/browse-books.png) |
+### Main Navigation & Authentication
+| Main Menu | Member Login | Register |
+|-----------|-------------|----------|
+| ![Main Menu](screenshots/main-menu.png) | ![Login](screenshots/member-login.png) | ![Register](screenshots/register.png) |
 
-| Member Login | Register Member | Admin Dashboard |
-|-------------|-----------------|-----------------|
-| ![Login](screenshots/member-login.png) | ![Register](screenshots/register.png) | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+### Member Features
+| Member Dashboard | Browse Books | My Borrows |
+|-----------------|--------------|-----------|
+| ![Dashboard](screenshots/member-dashboard.png) | ![Browse Books](screenshots/browse-books.png) | ![Borrows](screenshots/my-borrows.png) |
+
+### Admin Features
+| Admin Dashboard | View All Books | View All Borrows |
+|-----------------|----------------|-----------------|
+| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![Admin Books](screenshots/admin-view-books.png) | ![Admin Borrows](screenshots/admin-view-borrows.png) |
+
+> **Note**: To add screenshots, follow the guide in [screenshots/README.md](screenshots/README.md)
 
 ## 🔑 Default Credentials
 
